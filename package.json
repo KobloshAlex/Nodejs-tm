@@ -1,0 +1,25 @@
+{
+  "name": "Nodejs-tm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KobloshAlex/Nodejs-tm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KobloshAlex/Nodejs-tm/issues"
+  },
+  "homepage": "https://github.com/KobloshAlex/Nodejs-tm#readme",
+  "dependencies": {
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.10.13",
+    "validator": "^13.1.17"
+  }
+}
