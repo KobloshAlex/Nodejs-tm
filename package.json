@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/KobloshAlex/Nodejs-tm#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "mongodb": "^3.6.3",
     "mongoose": "^5.10.13",
     "validator": "^13.1.17"
