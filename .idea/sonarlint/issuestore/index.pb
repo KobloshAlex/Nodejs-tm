@@ -17,3 +17,5 @@ G
 src/models/userModel.js,5\4\54a8ae5d561903a36ea185a01c35a8ff2d235fe1
 G
 src/routes/userRoute.js,9\b\9b67850c6d6a08df5e14b8b0aa0550b0a6e3365a
+B
+src/models/user.js,f\b\fbb8f242f787683ca7d8f88043f356d424f5b81b
